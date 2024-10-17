@@ -1,0 +1,6 @@
+# ninja log v5
+2	1937	1703709363194691887	CMakeFiles/project_2.dir/Stack.cpp.o	2e1335305d85a6ef
+0	1937	1703709363194691887	CMakeFiles/project_2.dir/main.cpp.o	befbe3a965089eae
+2	1937	1703709363188025036	CMakeFiles/project_2.dir/Sub_link.cpp.o	28e699326e07182d
+1937	2176	1703709363431365124	project_2	ded27d4a0e452c7b
+2	1930	1703709363151357351	CMakeFiles/project_2.dir/Product.cpp.o	4c4d59c40c426f57
